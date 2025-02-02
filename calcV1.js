@@ -18,4 +18,4 @@ console.log(`The difference is ${difference}`);
 
 console.log(`The product iss ${product}`);
 
-console.log(`The quotient is ${quotient}`)
+console.log(`The quotient is ${quotient}`);
